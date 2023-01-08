@@ -1,6 +1,6 @@
 # DIY MP3 Player
 
-[![DIY Portable MP3 Player | Направи сам Преносим MP3 плеър]](https://odysee.com/@GNN_Tech:2/diy-portable-mp3-player:b)
+![DIY Portable MP3 Player | Направи сам Преносим MP3 плеър](https://odysee.com/@GNN_Tech:2/diy-portable-mp3-player:b)
 
 ## 3D Model
 
